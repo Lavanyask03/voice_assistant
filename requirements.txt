@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.1
+gTTS==2.1.1
+PyAudio==0.2.11
+playsound==1.2.2
+requests==2.22.0
+SpeechRecognition==3.8.1
+selenium==3.141.0
