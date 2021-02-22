@@ -1,11 +1,13 @@
 # About
-Voice assistant that takes in voice commands and performs tasks. <br>
-
-AI Voice Assistant in Python using speech recognition. The application takes in voice commands
-from the user and performs the respective tasks. The tasks include launching any system
-application, telling the time, playing a song, sending an email, tell the news or top stories, giving
-answers for questions, opening the search query in Google, Wikipedia and YouTube. 
-
+Voice Assistant in Python using speech recognition. The application takes in voice commands
+from the user and performs the respective tasks like:
+* Launch any system application
+* Tell the time
+* Play a song
+* Send an email
+* Tell the news or top stories
+* Answer your questions by searching the web
+* Open the search query in Google, Wikipedia and YouTube. 
 
 # Run on local machine
 1. Clone the repository
